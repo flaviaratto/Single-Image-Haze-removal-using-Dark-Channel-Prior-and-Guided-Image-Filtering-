@@ -1,0 +1,12 @@
+********************************************
+
+The main function to be executed is the file with the name as "MorningViewMode". 
+Please run that function in Matlab. 
+
+The input hazy images are in the folder - Image_Set --> Input_Hazy_Images. 
+
+Please move the image that you want to test for in the folder containing the program files. 
+
+The resultant output - Haze Free images are present in the folder Image_Set --> Results.
+
+********************************************
