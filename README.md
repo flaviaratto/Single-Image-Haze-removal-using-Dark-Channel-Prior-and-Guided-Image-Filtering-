@@ -3,6 +3,9 @@ A MATLAB implementation of the algorithm described in the paper by He et al. tit
 
 This was completed as a part of the final project for the ECEN642 Digital Image Processing course at Texas A&M University.
 
+## Block Diagram for Implementation- ##
+
+
 
 ## References- ##
 [1] HE ET AL.: SINGLE IMAGE HAZE REMOVAL USING DARK CHANNEL PRIOR, IEEE TRANSACTIONS ON PATTERN ANALYSIS AND MACHINE INTELLIGENCE, VOL. 33, NO. 12, DECEMBER 2011. <br/>
