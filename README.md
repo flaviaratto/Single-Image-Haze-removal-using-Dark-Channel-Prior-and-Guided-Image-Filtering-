@@ -4,7 +4,7 @@ A MATLAB implementation of the algorithm described in the paper by He et al. tit
 This was completed as a part of the final project for the ECEN642 Digital Image Processing course at Texas A&M University.
 
 ## Block Diagram for Implementation- ##
-
+![image](https://user-images.githubusercontent.com/65198491/81782258-2cd45a00-94bf-11ea-804a-af107c80584a.png)
 
 
 ## References- ##
